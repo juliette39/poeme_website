@@ -27,8 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['157.159.195.105', 'localhost', '127.0.0.1', 'poeme.h.minet.net']
 
-PORT = 8080
-
 # Application definition
 
 INSTALLED_APPS = [
